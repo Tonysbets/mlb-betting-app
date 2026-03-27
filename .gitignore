@@ -1,0 +1,6 @@
+.DS_Store
+backend/.DS_Store
+backend/.env
+backend/cron.log
+backend/__pycache__/
+*.pyc
